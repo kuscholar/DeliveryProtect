@@ -11,8 +11,11 @@ The setup of the system requires:
 7. jumper wires
 8. Two cameras with USB connections (I used web cams)
 
-Work flow:
+## Work flow
 1. Setup the hardware system referring to the picture and the report.
 2. Upload the DeliveryCheck.ino script to the Arduino Board.
 3. Run python webservice.py in Raspberry Pi terminal window.
 4. Place an item on the force sensor, an email with picture should be sent to the receiver email address; when it is taken, another email with picture will be sent.
+
+### Demo setup
+<img src = "https://github.com/kuscholar/DeliveryProtect/blob/498b877c8568a44f29d20fc1520d0a3c96791e8f/Setup.jpg">
