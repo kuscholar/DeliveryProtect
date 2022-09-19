@@ -17,5 +17,9 @@ The setup of the system requires:
 3. Run python webservice.py in Raspberry Pi terminal window.
 4. Place an item on the force sensor, an email with picture should be sent to the receiver email address; when it is taken, another email with picture will be sent.
 
-### Demo setup
+## Scheme of the system
+![image](https://user-images.githubusercontent.com/61807135/190948313-62b623fa-c923-44d1-b6b4-f6ebdb076b3f.png)
+
+
+## Demo setup
 <img src = "https://github.com/kuscholar/DeliveryProtect/blob/498b877c8568a44f29d20fc1520d0a3c96791e8f/Setup.jpg">
